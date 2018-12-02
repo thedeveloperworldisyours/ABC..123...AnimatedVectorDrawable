@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+     android:interpolator="@android:anim/accelerate_interpolator"
+     android:ordering="sequentially"
+     android:shareInterpolator="false">
+    <!-- Step 1 -->
+    <objectAnimator
+            android:duration="@android:integer/config_shortAnimTime"
+            android:propertyName="pathData"
+            android:valueFrom="@string/svg_icon_j_1"
+            android:valueTo="@string/svg_icon_j_2"
+            android:valueType="pathType" />
+    <!-- Step 2 -->
+    <objectAnimator
+            android:duration="@android:integer/config_shortAnimTime"
+            android:propertyName="pathData"
+            android:valueFrom="@string/svg_icon_j_2"
+            android:valueTo="@string/svg_icon_j_3"
+            android:valueType="pathType" />
+    <!-- Step 3 -->
+    <objectAnimator
+            android:duration="@android:integer/config_shortAnimTime"
+            android:propertyName="pathData"
+            android:valueFrom="@string/svg_icon_j_3"
+            android:valueTo="@string/svg_icon_j_4"
+            android:valueType="pathType" />
+    <!-- Step 4 -->
+    <objectAnimator
+            android:duration="@android:integer/config_shortAnimTime"
+            android:propertyName="pathData"
+            android:valueFrom="@string/svg_icon_j_4"
+            android:valueTo="@string/svg_icon_j_5"
+            android:valueType="pathType" />
+    <!-- Step 5 -->
+    <objectAnimator
+            android:duration="@android:integer/config_shortAnimTime"
+            android:propertyName="pathData"
+            android:valueFrom="@string/svg_icon_j_5"
+            android:valueTo="@string/svg_icon_j_6"
+            android:valueType="pathType" />
+    <!-- Step 6 -->
+    <objectAnimator
+            android:duration="@android:integer/config_shortAnimTime"
+            android:propertyName="pathData"
+            android:valueFrom="@string/svg_icon_j_6"
+            android:valueTo="@string/svg_icon_j_7"
+            android:valueType="pathType" />
+    <!-- Step 7 -->
+    <objectAnimator
+            android:duration="@android:integer/config_shortAnimTime"
+            android:propertyName="pathData"
+            android:valueFrom="@string/svg_icon_j_7"
+            android:valueTo="@string/svg_icon_j_8"
+            android:valueType="pathType" />
+    <!-- Step 8 -->
+    <objectAnimator
+            android:duration="@android:integer/config_shortAnimTime"
+            android:propertyName="pathData"
+            android:valueFrom="@string/svg_icon_j_8"
+            android:valueTo="@string/svg_icon_j_9"
+            android:valueType="pathType" />
+    <!-- Step 9 -->
+    <objectAnimator
+            android:duration="@android:integer/config_shortAnimTime"
+            android:propertyName="pathData"
+            android:valueFrom="@string/svg_icon_j_9"
+            android:valueTo="@string/svg_icon_j_10"
+            android:valueType="pathType" />
+    <!-- Step 10 -->
+    <objectAnimator
+            android:duration="@android:integer/config_shortAnimTime"
+            android:propertyName="pathData"
+            android:valueFrom="@string/svg_icon_j_10"
+            android:valueTo="@string/svg_icon_j_11"
+            android:valueType="pathType" />
+    <!-- Step 11 -->
+    <objectAnimator
+            android:duration="@android:integer/config_shortAnimTime"
+            android:propertyName="pathData"
+            android:valueFrom="@string/svg_icon_j_11"
+            android:valueTo="@string/svg_icon_j_12"
+            android:valueType="pathType" />
+</set>

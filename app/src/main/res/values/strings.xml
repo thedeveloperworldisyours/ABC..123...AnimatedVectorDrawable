@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Alphabet&amp;Number</string>
+
+    <string name="svg_icon_square_1">M6,6 L6,6 L6,6 L6,6 L6,6</string>
+    <string name="svg_icon_square_2">M6,6 L16,6 L16,6 L16,6 L16,6</string>
+    <string name="svg_icon_square_3">M6,6 L16,6 L16,16 L16,16 L16,16</string>
+    <string name="svg_icon_square_4">M6,6 L16,6 L16,16 L6,16 L6,16</string>
+    <string name="svg_icon_square_5">M6,6 L16,6 L16,16 L6,16 L6,6</string>
+
+    <string name="svg_icon_j_1">M6,6 L6,6 L6,6 L6,6 L6,6 L6,6 L6,6 L6,6 L6,6 L6,6 L6,6 L6,6</string>
+    <string name="svg_icon_j_2">M6,6 L16,6 L16,6 L16,6 L16,6 L16,6 L16,6 L16,6 L16,6 L16,6 L16,6 L16,6</string>
+    <string name="svg_icon_j_3">M6,6 L16,6 L16,20 L16,20 L16,20 L16,20 L16,20 L16,20 L16,20 L16,20 L16,20 L16,20</string>
+    <string name="svg_icon_j_4">M6,6 L16,6 L16,20 L6,20 L6,20 L6,20 L6,20 L6,20 L6,20 L6,20 L6,20 L6,20</string>
+    <string name="svg_icon_j_5">M6,6 L16,6 L16,20 L6,20 L6,16 L6,16 L6,16 L6,16 L6,16 L6,16 L6,16 L6,16</string>
+    <string name="svg_icon_j_6">M6,6 L16,6 L16,20 L6,20 L6,16 L9,16 L9,16 L9,16 L9,16 L9,16 L9,16 L9,16</string>
+    <string name="svg_icon_j_7">M6,6 L16,6 L16,20 L6,20 L6,16 L9,16 L9,17 L9,17 L9,17 L9,17 L9,17 L9,17</string>
+    <string name="svg_icon_j_8">M6,6 L16,6 L16,20 L6,20 L6,16 L9,16 L9,17 L7,17 L7,17 L7,17 L7,17 L7,17</string>
+    <string name="svg_icon_j_9">M6,6 L16,6 L16,20 L6,20 L6,16 L9,16 L9,17 L7,17 L7,19 L7,19 L7,19 L7,19</string>
+    <string name="svg_icon_j_10">M6,6 L16,6 L16,20 L6,20 L6,16 L9,16 L9,17 L7,17 L7,19 L15,19 L15,19 L15,19</string>
+    <string name="svg_icon_j_11">M6,6 L16,6 L16,20 L6,20 L6,16 L9,16 L9,17 L7,17 L7,19 L15,19 L15,7 L15,17</string>
+    <string name="svg_icon_j_12">M6,6 L16,6 L16,20 L6,20 L6,16 L9,16 L9,17 L7,17 L7,19 L15,19 L15,7 L6,7</string>
+</resources>
