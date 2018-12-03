@@ -7,6 +7,14 @@
         android:layout_height="match_parent"
         tools:context=".MainActivity">
     <ImageView
+            android:id="@+id/capital_a_imageView"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:visibility="visible"
+            app:srcCompat="@drawable/animated_a"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toTopOf="parent"/>
+    <ImageView
             android:id="@+id/capital_j_imageView"
             android:layout_width="100dp"
             android:layout_height="100dp"

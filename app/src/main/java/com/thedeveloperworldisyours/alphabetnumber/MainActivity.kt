@@ -13,6 +13,7 @@ class MainActivity : AppCompatActivity() {
 
         button.setOnClickListener {
             (capital_j_imageView.getDrawable() as Animatable).start()
+            (capital_a_imageView.getDrawable() as Animatable).start()
 
         }
     }

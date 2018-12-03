@@ -19,4 +19,16 @@
     <string name="svg_icon_j_10">M6,6 L16,6 L16,20 L6,20 L6,16 L9,16 L9,17 L7,17 L7,19 L15,19 L15,19 L15,19</string>
     <string name="svg_icon_j_11">M6,6 L16,6 L16,20 L6,20 L6,16 L9,16 L9,17 L7,17 L7,19 L15,19 L15,7 L15,17</string>
     <string name="svg_icon_j_12">M6,6 L16,6 L16,20 L6,20 L6,16 L9,16 L9,17 L7,17 L7,19 L15,19 L15,7 L6,7</string>
+
+    <string name="svg_icon_a_1">M6,20 L6,20 L6,20 L6,20 L6,20 L6,20 L6,20 L6,20 L6,20 L6,20 L6,20</string>
+    <string name="svg_icon_a_2">M6,20 L10.5,6 L10.5,6 L10.5,6 L10.5,6 L10.5,6 L10.5,6 L10.5,6 L10.5,6 L10.5,6 L10.5,6</string>
+    <string name="svg_icon_a_3">M6,20 L10.5,6 L11.5,6 L11.5,6 L11.5,6 L11.5,6 L11.5,6 L11.5,6 L11.5,6 L11.5,6 L11.5,6</string>
+    <string name="svg_icon_a_4">M6,20 L10.5,6 L11.5,6 L16,20 L16,20 L16,20 L16,20 L16,20 L16,20 L16,20 L16,20</string>
+    <string name="svg_icon_a_5">M6,20 L10.5,6 L11.5,6 L16,20 L15,20 L15,20 L15,20 L15,20 L15,20 L15,20 L15,20</string>
+    <string name="svg_icon_a_6">M6,20 L10.5,6 L11.5,6 L16,20 L15,20 L11,7.2 L11,7.2 L11,7.2 L11,7.2 L11,7.2 L11,7.2</string>
+    <string name="svg_icon_a_7">M6,20 L10.5,6 L11.5,6 L16,20 L15,20 L11,7.2 L7,20 L7,20 L7,20 L7,20 L7,20</string>
+    <string name="svg_icon_a_8">M6,20 L10.5,6 L11.5,6 L16,20 L15,20 L11,7.2 L7,20 L8,17 L8,17 L8,17 L8,17</string>
+    <string name="svg_icon_a_9">M6,20 L10.5,6 L11.5,6 L16,20 L15,20 L11,7.2 L7,20 L8,17 L14,17 L14,17 L14,17</string>
+    <string name="svg_icon_a_10">M6,20 L10.5,6 L11.5,6 L16,20 L15,20 L11,7.2 L7,20 L8,17 L14,17 L13,16 L13,16</string>
+    <string name="svg_icon_a_11">M6,20 L10.5,6 L11.5,6 L16,20 L15,20 L11,7.2 L7,20 L8,17 L14,17 L13,16 L7,16</string>
 </resources>
