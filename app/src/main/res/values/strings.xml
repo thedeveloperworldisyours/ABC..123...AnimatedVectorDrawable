@@ -56,4 +56,7 @@
         C 9,7.5 7.6,9.5 5.2,9.5
         L 2,9.5
     </string>
+
+    <string name="svg_icon_f_1">M1,2 L6,2</string>
+
 </resources>
